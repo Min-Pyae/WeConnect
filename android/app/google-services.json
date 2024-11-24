@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1080674298003",
+    "project_id": "weconnect-41ad3",
+    "storage_bucket": "weconnect-41ad3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080674298003:android:3ae8b5da7d4698608a8566",
+        "android_client_info": {
+          "package_name": "com.chrismin.we"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGjvmQam6JEhmXxCrQR3hy5MDkCfNLJCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080674298003:android:3230388a9f30a6648a8566",
+        "android_client_info": {
+          "package_name": "com.chrismin.weconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGjvmQam6JEhmXxCrQR3hy5MDkCfNLJCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
