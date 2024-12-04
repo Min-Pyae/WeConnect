@@ -15,6 +15,7 @@ class WcBottomNavigationBar extends StatelessWidget {
     return BottomNavigationBar(
       currentIndex: currentIndex,
       onTap: onTap,
+      selectedItemColor: Theme.of(context).colorScheme.inversePrimary,
       items: const [
 
         // Home Page
